@@ -27,6 +27,8 @@ public class SamBookStoreApp {
 //            System.out.print("Enter customer type : ");
 //            book.setCustomerType(sc.next());
 //            books.add(book);
+//            sc.nextLine();
+//            System.out.println("\n");
 //        }
 
         //can use for() -> {create instance of Book, add to arraylist}; efficient
