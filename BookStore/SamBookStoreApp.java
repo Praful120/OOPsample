@@ -82,5 +82,13 @@ public class SamBookStoreApp {
             }
             System.out.println(book.toString());
         }
+        
+        //without getting total price; (quantity * price per book)
+//        for (Book book : books){
+//            if (book.getCustomerType().equalsIgnoreCase("Regular")){
+//                book.setPrice(book.getPrice()-200);
+//            }
+//            System.out.println(book.toString());
+//        }
     }
 }
