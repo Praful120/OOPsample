@@ -92,3 +92,12 @@ public class SamBookStoreApp {
 //        }
     }
 }
+
+//arkai for loop use garne vaye this ->
+// for (int i = 0; i < books.size(); i++) {
+//     Book book = books.get(i);
+//     if (book.getCustomerType().equalsIgnoreCase("Regular")) {
+//         book.setPrice(book.getPrice() - 200);
+//     }
+//     System.out.println(book.toString());
+// }
